@@ -59,3 +59,4 @@ void checkResult(bool result) {
 		std::cout << "This is not a palindrome" << std::endl;
 }
 
+//testing
